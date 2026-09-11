@@ -136,7 +136,7 @@ http://你的服务器IP:2053/xxxxxxxxxx
 
 输入用户名密码登录，看到概览页说明面板已经跑起来了：
 
-![面板概览页](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/01-overview-light.png)
+![面板概览页](images/3xui-overview.png)
 *（图：3X-UI 面板概览页，可以看到 CPU / 内存 / 流量等服务器状态。图片来自 3X-UI 官方仓库 media 目录，仅作界面演示）*
 
 **强烈建议先做两件安全加固**（在「面板设置」里）：
@@ -153,22 +153,22 @@ http://你的服务器IP:2053/xxxxxxxxxx
 - 端口：自定义一个 443 或其他常用端口
 - 其余参数保持默认即可
 
-![添加入站](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/02-add-inbound-light.png)
+![添加入站](images/3xui-add-inbound.png)
 *（图：添加入站配置页，图片来自 3X-UI 官方仓库）*
 
 保存后，回到入站列表就能看到刚创建的节点：
 
-![入站列表](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/02-inbounds-light.png)
+![入站列表](images/3xui-inbounds.png)
 
 ### 3.3 添加客户端账号
 
 点进刚才创建的入站，点击「添加客户端」，给这个节点生成一个使用者（可以理解为一把"钥匙"）：
 
-![添加客户端](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/03-add-client-light.png)
+![添加客户端](images/3xui-add-client.png)
 
 保存后，点击客户端右侧的二维码图标，就能拿到**订阅链接 / 二维码 / 分享链接**：
 
-![客户端详情与二维码](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/03-client-light.png)
+![客户端详情与二维码](images/3xui-client.png)
 *（图：以上三张均为 3X-UI 官方仓库 media 目录截图，用于展示面板真实界面，实际操作时请以你自己面板生成的二维码为准）*
 
 ---
