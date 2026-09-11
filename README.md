@@ -32,7 +32,7 @@
 
 ### 1.1 打开购买链接
 
-点击我的推广链接进入 DMIT 官网：
+点击链接进入 DMIT 官网：
 
 👉 https://www.dmit.io/aff.php?aff=27305
 
@@ -219,9 +219,9 @@ http://你的服务器IP:2053/xxxxxxxxxx
 
 整个过程不需要写代码、不需要懂网络协议细节，跟着截图一步步点就能搭好一套属于自己的代理服务，速度和稳定性都由你自己掌控，不用再纠结"哪个免费节点又跑路了"。
 
-如果这篇教程帮到了你，也欢迎通过我的 [DMIT 推广链接](https://www.dmit.io/aff.php?aff=27305) 支持一下～有问题欢迎在 Issue 里交流。
+如果这篇教程帮到了你，也欢迎通过 [DMIT 链接](https://www.dmit.io/aff.php?aff=27305) 支持一下～有问题欢迎在 Issue 里交流。
 
 **参考链接**
 
-- DMIT 官网：https://www.dmit.io/aff.php?aff=27305 （含推广码）
+- DMIT 官网：https://www.dmit.io/aff.php?aff=27305
 - 3X-UI 开源项目：https://github.com/MHSanaei/3x-ui
