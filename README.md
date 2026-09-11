@@ -39,7 +39,7 @@
 DMIT 是一家老牌海外云服务商，提供 KVM 云主机（Cloud Instance）、独立服务器、IP Transit 等业务，多个机房支持"中国大陆优化线路"，访问速度相对友好。首页如下：
 
 ![DMIT 官网首页](images/dmit-home.png)
-*（图：DMIT 官网首页，可以看到 Cloud Instance / BareMetal / IP Transit 等产品分类）*
+*（图：DMIT 官网首页）*
 
 ### 1.2 选择套餐（Cloud Instance）
 
