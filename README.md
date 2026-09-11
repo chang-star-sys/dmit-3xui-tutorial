@@ -41,8 +41,6 @@ DMIT 是一家老牌海外云服务商，提供 KVM 云主机（Cloud Instance�
 ![DMIT 官网首页](images/dmit-home.png)
 *（图：DMIT 官网首页，可以看到 Cloud Instance / BareMetal / IP Transit 等产品分类）*
 
-> 📌 截图占位说明：DMIT 官网接入了 Cloudflare 人机验证，自动化工具无法直接截取内部页面。请在实际操作时，把下面每一步对应的页面自行截图替换到 `images/` 目录里（文件名已在图注中标好），这样发布到 GitHub 后教程会更完整。
-
 ### 1.2 选择套餐（Cloud Instance）
 
 在导航栏点击 **Cloud Instance**，会看到按机房分类的套餐列表（如洛杉矶 LAX、香港、日本等）。新手第一次体验，建议：
